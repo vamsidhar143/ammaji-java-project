@@ -5,7 +5,7 @@
   <artifactId>java-ammaji-project</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>java-ammaji-project</name>
+  <name>java_ammaji_project</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
